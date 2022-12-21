@@ -5,7 +5,7 @@
 
 ### 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐅𝐫𝐨𝐦 𝐇𝐞𝐫𝐞
 
-[![GenerateString](https://te.legra.ph/file/6387f0c9cee1e8d9c29e7.jpg)](https://t.me/String_finder_bot)
+[![GenerateString](https://te.legra.ph/file/6387f0c9cee1e8d9c29e7.jpg)](https://replit.com/@BRANDEDINSAN3/PyrogramStringSession-1)
 
 
 ### 𝐎𝐰𝐧𝐞𝐫 (𝐑𝐞𝐛𝐮𝐢𝐥𝐝 𝐖𝐢𝐭𝐡 𝐍𝐞𝐰 𝐃𝐞𝐬𝐢𝐠𝐧) 𝐎𝐟 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐬𝐭𝐢𝐨𝐫𝐲
